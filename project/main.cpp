@@ -11,5 +11,8 @@ int main()
     for(int i=1;i<5;i++){
         cout <<i<<endl;
     }
+
+
+    cout <<"hello shabab"<<endl;
     return 0;
 }

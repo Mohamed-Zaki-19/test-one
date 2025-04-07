@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "parser branch!" << endl;
+    if(8>7){
+        cout << "no"<<endl;
+    }
     return 0;
 }

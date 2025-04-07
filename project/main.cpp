@@ -8,11 +8,7 @@ int main()
         cout << "no"<<endl;
     }
 
-    for(int i=1;i<5;i++){
-        cout <<i<<endl;
-    }
+    cout <<"hi";
 
-
-    cout <<"hello shabab"<<endl;
     return 0;
 }
